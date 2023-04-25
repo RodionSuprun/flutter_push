@@ -45,7 +45,7 @@ class _MyHomePageState extends State<MyHomePage> {
               textAlign: TextAlign.center,
               style: TextStyle(
                   fontSize: 38,
-                  fontWeight: FontWeight.w700,
+                  fontWeight: FontWeight.w900,
                   color: Colors.white),
             ),
           ),
@@ -62,7 +62,7 @@ class _MyHomePageState extends State<MyHomePage> {
                     textAlign: TextAlign.center,
                     style: const TextStyle(
                         fontSize: 36,
-                        fontWeight: FontWeight.w700,
+                        fontWeight: FontWeight.w500,
                         color: Colors.white),
                   ),
                 ),
@@ -97,7 +97,7 @@ class _MyHomePageState extends State<MyHomePage> {
                       _getButtonText(),
                       style: const TextStyle(
                           fontSize: 38,
-                          fontWeight: FontWeight.w700,
+                          fontWeight: FontWeight.w900,
                           color: Colors.white),
                     ),
                   ),
